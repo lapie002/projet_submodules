@@ -1,0 +1,12 @@
+[submodule "editeur"]
+	path = editeur
+	url = https://github.com/lapie002/editeur.git
+	branch = master
+[submodule "librairie"]
+	path = librairie
+	url = https://github.com/lapie002/librairie.git
+	branch = master
+[submodule "rapport"]
+	path = rapport
+	url = https://github.com/lapie002/rapport.git
+	branch = master
